@@ -47,7 +47,6 @@ int main(int argc, char* argv[])
                     a = fgetc(fp);
             }
             printf("该文本文件的单词数为：%d\n", w);
-
         }
     }
     else
